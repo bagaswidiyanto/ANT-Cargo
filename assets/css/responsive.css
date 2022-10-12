@@ -1,0 +1,72 @@
+
+
+@media only screen and (max-width: 992px) {
+    .modal-tracking .modal-dialog {
+        max-width: 900px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .tracking .nav-tabs .nav-link {
+        width: 17vh;
+        padding: 12px 0;
+    }
+
+    .tracking .nav-tabs .nav-link img {
+        max-height: 30px;
+        margin-right: 0;
+    }
+
+    .tracking .nav-tabs .nav-link p {
+        font-size: 14px;
+    }
+
+
+    .service .nav-tabs {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+    }
+
+    .tracking-table .table {
+        font-size: 12px;
+    }
+
+    .tracking-table .table tr td button {
+        font-size: 12px;
+    }
+
+    .remark p {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .service .nav-tabs .nav-link {
+        font-size: 10px;
+    }
+
+    .tracking .nav-tabs .nav-link {
+        width: 12vh;
+        padding: 5px 0;
+    }
+
+    .tracking .nav-tabs .nav-link img {
+        max-height: 22px;
+    }
+
+    .tracking .nav-tabs .nav-link p {
+        font-size: 10px;
+    }
+
+
+    .modal-tracking .modal-body table {
+        font-size: 11px;
+    }
+
+    .modal-tracking .modal-body {
+        padding: 0.3rem;
+    }
+}
+
+

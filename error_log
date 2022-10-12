@@ -1,0 +1,54 @@
+[20-Apr-2019 10:38:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method Welcome::menu() in /home/tamcargo/public_html/website/application/core/MY_Controller.php on line 13
+[20-Apr-2019 10:38:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method Welcome::menu() in /home/tamcargo/public_html/website/application/core/MY_Controller.php on line 13
+[20-Apr-2019 10:39:09 Asia/Jakarta] PHP Fatal error:  Call to undefined method Welcome::getCounter() in /home/tamcargo/public_html/website/application/core/MY_Controller.php on line 19
+[20-Apr-2019 10:47:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method Tracking::initCounter() in /home/tamcargo/public_html/website/application/core/MY_Controller.php on line 28
+[20-Apr-2019 10:52:12 Asia/Jakarta] PHP Fatal error:  Call to undefined method Welcome::menu() in /home/tamcargo/public_html/website/application/core/MY_Controller.php on line 13
+[20-Apr-2019 10:53:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method Welcome::getCounter() in /home/tamcargo/public_html/website/application/core/MY_Controller.php on line 19
+[20-Apr-2019 11:00:28 Asia/Jakarta] PHP Fatal error:  Call to undefined method Prices::initCounter() in /home/tamcargo/public_html/website/application/core/MY_Controller.php on line 28
+[20-Apr-2019 11:42:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method Welcome::menu() in /home/tamcargo/public_html/website/application/core/MY_Controller.php on line 13
+[20-Apr-2019 11:43:59 Asia/Jakarta] PHP Fatal error:  Call to undefined method Welcome::getCounter() in /home/tamcargo/public_html/website/application/core/MY_Controller.php on line 19
+[20-Apr-2019 11:44:11 Asia/Jakarta] PHP Fatal error:  Call to undefined method Welcome::getCounter() in /home/tamcargo/public_html/website/application/core/MY_Controller.php on line 20
+[20-Apr-2019 11:44:18 Asia/Jakarta] PHP Fatal error:  Call to undefined method Welcome::getCounter() in /home/tamcargo/public_html/website/application/core/MY_Controller.php on line 21
+[22-Apr-2019 13:41:17 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_index() in /home/tamcargo/public_html/website/application/views/content/home.php on line 75
+[22-Apr-2019 13:41:29 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_index() in /home/tamcargo/public_html/website/application/views/content/home.php on line 75
+[22-Apr-2019 13:41:35 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_index() in /home/tamcargo/public_html/website/application/views/content/home.php on line 75
+[22-Apr-2019 01:46:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/tamcargo/public_html/website/application/controllers/Welcome.php on line 70
+[22-Apr-2019 01:47:10 America/Chicago] PHP Fatal error:  Cannot redeclare Welcome::index() in /home/tamcargo/public_html/website/application/controllers/Welcome.php on line 16
+[22-Apr-2019 14:29:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/tamcargo/public_html/website/application/views/content/v_prices.php on line 103
+[22-Apr-2019 14:29:19 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/tamcargo/public_html/website/application/views/content/v_prices.php on line 53
+[22-Apr-2019 14:29:27 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/tamcargo/public_html/website/application/views/content/v_prices.php on line 53
+[22-Apr-2019 14:29:57 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/tamcargo/public_html/website/application/views/content/v_prices.php on line 53
+[22-Apr-2019 14:33:10 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/tamcargo/public_html/website/application/views/content/v_prices.php on line 53
+[22-Apr-2019 14:35:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/tamcargo/public_html/website/application/views/content/v_prices.php on line 165
+[24-Apr-2019 12:47:33 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/tamcargo/public_html/website/application/views/content/v_blogs.php on line 18
+[25-Apr-2019 15:59:32 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/tamcargo/public_html/website/application/views/content/v_prices.php on line 62
+[25-Apr-2019 16:02:47 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/tamcargo/public_html/website/application/views/content/v_prices.php on line 62
+[25-Apr-2019 16:03:09 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/tamcargo/public_html/website/application/views/content/v_prices.php on line 62
+[28-Apr-2019 23:00:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/tamcargo/public_html/website/application/controllers/Detail.php on line 15
+[05-May-2019 23:07:48 America/Chicago] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/tamcargo/public_html/website/application/controllers/Armada.php on line 7
+[05-May-2019 23:07:54 America/Chicago] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/tamcargo/public_html/website/application/controllers/Armada.php on line 7
+[09-May-2019 21:50:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'dropdown' (T_STRING) in /home/tamcargo/public_html/application/core/MY_Controller.php on line 67
+[09-May-2019 21:50:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'dropdown' (T_STRING) in /home/tamcargo/public_html/application/core/MY_Controller.php on line 67
+[10-May-2019 13:40:48 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/tamcargo/public_html/application/views/content/v_blogs.php on line 14
+[10-Jun-2019 23:11:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/tamcargo/public_html/application/core/MY_Controller.php on line 62
+[10-Jun-2019 23:11:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/tamcargo/public_html/application/core/MY_Controller.php on line 62
+[10-Jun-2019 23:11:44 America/Chicago] PHP Parse error:  syntax error, unexpected '"){echo "' (T_CONSTANT_ENCAPSED_STRING) in /home/tamcargo/public_html/application/core/MY_Controller.php on line 62
+[10-Jun-2019 23:13:46 America/Chicago] PHP Parse error:  syntax error, unexpected ''$h->slug'' (T_CONSTANT_ENCAPSED_STRING) in /home/tamcargo/public_html/application/core/MY_Controller.php on line 64
+[11-Jun-2019 11:17:57 Asia/Jakarta] PHP Fatal error:  Call to undefined method Welcome::menu() in /home/tamcargo/public_html/application/core/MY_Controller.php on line 13
+[02-Mar-2020 00:27:17 America/Chicago] PHP Fatal error:  Cannot access  property CI_Loader::$_ci_ob_level in /home/tamcargo/public_html/system/core/Loader.php on line 138
+[02-Mar-2020 00:27:26 America/Chicago] PHP Fatal error:  Cannot access  property CI_Loader::$_ci_ob_level in /home/tamcargo/public_html/system/core/Loader.php on line 138
+[02-Mar-2020 00:27:31 America/Chicago] PHP Fatal error:  Cannot access  property CI_Loader::$_ci_ob_level in /home/tamcargo/public_html/system/core/Loader.php on line 138
+[02-Mar-2020 00:27:38 America/Chicago] PHP Fatal error:  Cannot access  property CI_Loader::$_ci_ob_level in /home/tamcargo/public_html/system/core/Loader.php on line 138
+[02-Mar-2020 00:27:53 America/Chicago] PHP Fatal error:  Cannot access  property CI_Loader::$_ci_ob_level in /home/tamcargo/public_html/system/core/Loader.php on line 138
+[02-Mar-2020 00:27:59 America/Chicago] PHP Fatal error:  Cannot access  property CI_Loader::$_ci_ob_level in /home/tamcargo/public_html/system/core/Loader.php on line 138
+[02-Mar-2020 00:28:04 America/Chicago] PHP Fatal error:  Cannot access  property CI_Loader::$_ci_ob_level in /home/tamcargo/public_html/system/core/Loader.php on line 138
+[02-Mar-2020 00:28:13 America/Chicago] PHP Fatal error:  Cannot access  property CI_Loader::$_ci_ob_level in /home/tamcargo/public_html/system/core/Loader.php on line 138
+[02-Mar-2020 00:29:12 America/Chicago] PHP Fatal error:  Cannot access  property CI_Loader::$_ci_ob_level in /home/tamcargo/public_html/system/core/Loader.php on line 138
+[02-Mar-2020 00:29:19 America/Chicago] PHP Fatal error:  Cannot access  property CI_Loader::$_ci_ob_level in /home/tamcargo/public_html/system/core/Loader.php on line 138
+[02-Mar-2020 00:29:31 America/Chicago] PHP Fatal error:  Cannot access  property CI_Loader::$_ci_ob_level in /home/tamcargo/public_html/system/core/Loader.php on line 138
+[02-Mar-2020 00:29:31 America/Chicago] PHP Fatal error:  Cannot access  property CI_Loader::$_ci_ob_level in /home/tamcargo/public_html/system/core/Loader.php on line 138
+[02-Mar-2020 00:29:34 America/Chicago] PHP Fatal error:  Cannot access  property CI_Loader::$_ci_ob_level in /home/tamcargo/public_html/system/core/Loader.php on line 138
+[13-Aug-2021 15:58:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/k2267848/antcargo.id/system/database/drivers/mysqli/mysqli_result.php on line 183
+[13-Aug-2021 15:59:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/k2267848/antcargo.id/system/database/drivers/mysqli/mysqli_result.php on line 183
+[13-Aug-2021 15:59:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/k2267848/antcargo.id/system/database/drivers/mysqli/mysqli_result.php on line 183
+[13-Aug-2021 16:00:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/k2267848/antcargo.id/system/database/drivers/mysqli/mysqli_result.php on line 183
